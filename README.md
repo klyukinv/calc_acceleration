@@ -1,1 +1,1 @@
-# calc_acceleration
+# Presentation about calculation acceleration
